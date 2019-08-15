@@ -1,0 +1,16 @@
+body {
+	font-family: sans-serif;
+	text-align: center;
+	color: white;
+	background-color: #000000;
+}
+
+#titlebar {
+	background-color: rgba(200,200,200,0.2);
+	border-radius: 5px;
+	padding-top: 10px;
+}
+
+#exampleModal {
+	color: black;
+}
